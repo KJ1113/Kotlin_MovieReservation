@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui02_GUMI_6_yoonkijae/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.33177083333333335" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui02_GUMI_6_yoonkijae/app/src/main/res/drawable/ic_launcher_background.xml" value="0.33177083333333335" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui02_GUMI_6_yoonkijae/app/src/main/res/layout/activity_main.xml" value="0.25151975683890576" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui02_GUMI_6_yoonkijae/app/src/main/res/layout/activity_movie_regist.xml" value="0.33" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui02_GUMI_6_yoonkijae/app/src/main/res/layout/activity_movie_regist2.xml" value="0.3640625" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui02_GUMI_6_yoonkijae/app/src/main/res/layout/simple_list_item_1.xml" value="1.0188953488372092" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui02_GUMI_6_yoonkijae/app/src/main/res/menu/contextmenu.xml" value="0.33" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui02_GUMI_6_yoonkijae/app/src/main/res/menu/menutest.xml" value="0.315625" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui03_GUMI_6_yoonkijae/app/src/main/res/layout/activity_movie_regist.xml" value="0.23802083333333332" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui04_GUMI_6_yoonkijae/app/src/main/res/layout/activity_main.xml" value="0.47384615384615386" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui04_GUMI_6_yoonkijae/app/src/main/res/layout/activity_movie_regist.xml" value="0.47384615384615386" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui04_GUMI_6_yoonkijae/app/src/main/res/layout/item_basic_recyclerview.xml" value="0.48125" />
+        <entry key="..\:/SSAFY/dev_Android/hw/hwandroidui04_GUMI_6_yoonkijae/app/src/main/res/menu/contextmenu.xml" value="0.3171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
